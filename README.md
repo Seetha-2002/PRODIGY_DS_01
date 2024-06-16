@@ -1,5 +1,7 @@
 # PRODIGY_DS_01
 # Data Science Internship Task 1
+<br>
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
 ## Introduction
 Mastering information representation is crucial in data analysis and visualization. Proficiency in crafting customizable charts enables concise and precise expression of ideas. This exercise focuses on enhancing data presentation skills by visualizing age distribution and gender breakdown, fostering a deeper understanding of the dataset.
